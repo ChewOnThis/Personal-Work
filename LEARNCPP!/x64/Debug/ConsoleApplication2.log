@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+  Functions.cpp
+  Generating Code...
+C:\Users\caleb\OneDrive\source\repos\LEARNCPP!\Functions.cpp(40): warning C4715: 'factOrCap': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\caleb\OneDrive\source\repos\LEARNCPP!\x64\Debug\ConsoleApplication2.exe
